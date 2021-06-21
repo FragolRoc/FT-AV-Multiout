@@ -1,3 +1,5 @@
+EasyEDA Link: https://easyeda.com/fragolroc/ft-av-multiout
+
 Gerber files for current FragolTech AV Multiout boards.
 
 MONO boards have left and right pins internally bridged. If used for NESRGB installs, you will only need one wire connected to either the left or right audio pad. Sound will come out both channels of the multiout.
