@@ -1,3 +1,5 @@
+Zaxour's Remix Multiout (pads in same order as NESRGB): https://github.com/zaxour/NESRGB_Multiout
+
 EasyEDA Link: https://easyeda.com/fragolroc/ft-av-multiout
 
 Gerber files for current FragolTech AV Multiout boards.
